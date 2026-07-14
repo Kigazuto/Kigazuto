@@ -19,6 +19,6 @@ I work on robot learning and manipulation, with a focus on real-world reinforcem
 
 ## Links
 
-- [Google Scholar](你的Google Scholar链接)
-- [LinkedIn](你的LinkedIn链接)
-- [X](你的X链接)
+- [Google Scholar]https://scholar.google.com/citations?hl=zh-CN&user=y0yKWaYAAAAJ
+- [LinkedIn]https://www.linkedin.com/in/pengyu-jing-63a065399/
+- [X]https://x.com/jing_pengy68112
