@@ -1,16 +1,24 @@
-## Hi there 👋
+# Pengyu Jing
 
-<!--
-**Kigazuto/Kigazuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on robot learning and manipulation, with a focus on real-world reinforcement learning, vision-language-action models, reward modeling, and robotic systems.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Robot Learning and Robotic Manipulation
+- Real-World Reinforcement Learning
+- Vision-Language-Action Models
+- Reward Modeling and Human Intervention
+- Simulation and Real-Robot Systems
+
+## Technical Background
+
+- **Programming:** Python, C++, MATLAB
+- **Robot Learning:** PyTorch, PPO, DSRL, VLA, π0
+- **Robotics:** ROS/ROS 2, MuJoCo, Isaac Sim, PyBullet
+- **Hardware:** STM32, CAN, PCB Design, Embedded Systems
+
+## Links
+
+- [Google Scholar](你的Google Scholar链接)
+- [LinkedIn](你的LinkedIn链接)
+- [X](你的X链接)
