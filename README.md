@@ -26,5 +26,5 @@
 
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=y0yKWaYAAAAJ)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pengyu-jing-63a065399/)
-- 𝕏 [X](https://x.com/jing_pengy68112)
+- 𝕏 [X](https://x.com/jingpengyu22)
 - ✉️ [Email](mailto:jingpengyu22@gmail.com)
