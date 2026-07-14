@@ -27,4 +27,4 @@
 - 🎓 [Google Scholar] https://scholar.google.com/citations?hl=zh-CN&user=y0yKWaYAAAAJ
 - 💼 [LinkedIn] https://www.linkedin.com/in/pengyu-jing-63a065399/
 - 𝕏 [X] https://x.com/jing_pengy68112
-- ✉️ [Email](mailto:jingpengyu22@gmail.com)
+- ✉️ [Email] jingpengyu22@gmail.com
